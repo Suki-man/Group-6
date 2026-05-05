@@ -1,5 +1,6 @@
 # Implemented Features
-## T-S: Implement Admin Login Page
-This task involves admin log in form username and passwod, including validation and error handeling.
+## T-Z:Registration
+This task involves creating a Registration form component with email and passw
+ord fullname phone no fields, including validation and error handling.
 **Status: Implemented**
 
